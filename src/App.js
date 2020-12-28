@@ -3,9 +3,12 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      
-
+    <div>
+      <img src='http://static.skaip.org/img/emoticons/180x180/f6fcff/cricket.gif' alt='cricket' />
+      <img src='http://static.skaip.org/img/emoticons/180x180/f6fcff/cricket.gif' alt='cricket' />
+      <img src='http://static.skaip.org/img/emoticons/180x180/f6fcff/cricket.gif' alt='cricket' />
+      <img src='http://static.skaip.org/img/emoticons/180x180/f6fcff/cricket.gif' alt='cricket' />
+      <img src='http://static.skaip.org/img/emoticons/180x180/f6fcff/cricket.gif' alt='cricket' />
     </div>
   );
 }
